@@ -17,8 +17,7 @@ Honeypots Deployed:
 
 
 # Data Collected
-<img src='https://raw.githubusercontent.com/lihaojin/codepathwk9/master/honeypot1.png'/>
-<img src='https://raw.githubusercontent.com/lihaojin/codepathwk9/master/honeypot2.png'/>
+<img src='https://raw.githubusercontent.com/lihaojin/codepathwk9/master/honeypotgif.gif'/>
 
 # Number of Attacks
 * 475
