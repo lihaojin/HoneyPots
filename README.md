@@ -19,14 +19,22 @@ Honeypots Deployed:
 # Data Collected
 <img src='https://raw.githubusercontent.com/lihaojin/codepathwk9/master/honeypot1.png'/>
 <img src='https://raw.githubusercontent.com/lihaojin/codepathwk9/master/honeypot2.png'/>
+
 # Number of Attacks
-*
+* 475
 
 
 # Top 5 Attacker IPs
-*
-
+* 134.74.251.200
+* 77.72.85.25
+* 5.188.11.71
+* 5.188.11.93
+* 5.188.11.91
 
 # Top 5 Attacked Ports
-*
+* 23(18 times)
+* 3306(8 times)
+* 5060(6 times)
+* 3389(6 times)
+* 25(5 times)
 
